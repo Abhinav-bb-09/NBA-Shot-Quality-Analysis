@@ -1,5 +1,5 @@
 # NBA Spatial Shot Quality Model
-
+👉 **[Live Interactive Dashboard: Click Here to Try the App!](https://abhinav-nba-shot-quality.streamlit.app)**
 ## Executive Summary
 This repository demonstrates an Expected Points (xPoints) model built from NBA shot data to support better offensive decision-making. xPoints estimates the expected scoring value of each shot opportunity, helping teams optimize shot selection, allocate player roles more effectively, and identify market inefficiencies in shot creation and defensive coverage.
 
