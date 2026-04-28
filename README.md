@@ -39,3 +39,4 @@ pip install -r requirements.txt
 jupyter notebook data_collection.ipynb
 ```
 3. Run the notebook cells in order to fetch data, clean it, train the model, and generate visualizations.
+📊 **[Interactive Business Intelligence Dashboard (Tableau): Click Here to View Team Analytics](https://public.tableau.com/app/profile/abhinav.sharma2541/vizzes)**
